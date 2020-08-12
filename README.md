@@ -1,6 +1,7 @@
 # math_app
 
-A new Flutter project.
+Youtube Promotion video : https://www.youtube.com/watch?v=jFbJVupp2vs
+Youtube Gameplay video : https://www.youtube.com/watch?v=8W-i2RM9Nnc
 
 ## Getting Started
 
